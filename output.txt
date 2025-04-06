@@ -1,0 +1,5 @@
+bob3
+
+Файл не знайдено (builtin).
+
+Помилка з pandas: [Errno 2] No such file or directory: 'input.csv'
